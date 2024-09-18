@@ -1,0 +1,21 @@
+label {
+    display: block;
+  }
+  
+  input, button {
+    display: inline-block;
+  }
+  
+  .input-container, button {
+      display: inline-block;
+  }
+
+  input, 
+  select { 
+      width: 400px; 
+      height: 25px; 
+      margin: 2px; 
+      -moz-box-sizing: border-box; 
+      -webkit-box-sizing: border-box; 
+      box-sizing: border-box; 
+  } 

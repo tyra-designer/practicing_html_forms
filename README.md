@@ -1,0 +1,1 @@
+Practice with making a email html form, will be adding a name text field, email box and a box for the message and a submit button
